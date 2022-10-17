@@ -1,0 +1,7 @@
+client		server
+browser		apache, nginx
+request		response
+
+https://vscode.dev:443/index.html
+
+protocol://domeniu:port/resursa
